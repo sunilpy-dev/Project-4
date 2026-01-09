@@ -1,0 +1,7 @@
+# Ignore the songs directory to avoid committing large audio files
+songs/
+
+# Node / OS artifacts (common)
+node_modules/
+.DS_Store
+Thumbs.db
